@@ -7,5 +7,6 @@ Setup Instructions
 2. Locate the app-crud.sql file.
 3. Import it into MySQL or phpMyAdmin to restore the database.
 (If you don’t import the SQL file, you’ll need to manually set up the database from scratch.)
+4. Use "php artisan serve" to start project
 
 ![Image](https://github.com/user-attachments/assets/7bbfc2be-9877-4d71-b9dd-8dec68435415)
